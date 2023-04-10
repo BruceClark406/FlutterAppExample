@@ -4,7 +4,7 @@ See the finished result [here: https://flutterwebappexample.web.app/](https://fl
 
 DISCLAIMER: This is merely a showcase of my flutter work. I am not taking credit for the design or the idea of this webpage.
 
-### Brief
+### Overview
 
 Your challenge is to build out this landing page, integrate with the [shrtcode API](https://app.shrtco.de/docs) and get it looking as close to the design as possible.
 
