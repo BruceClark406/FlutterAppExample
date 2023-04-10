@@ -1,0 +1,16 @@
+name: short_code_api_package
+description: A repository to interface with the shortcode API found here https://shrtco.de/docs
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  equatable: ^2.0.0
+  http: ^0.13.0
+
+dev_dependencies:
+  mocktail: ^0.3.0
+  test: ^1.19.2
+  very_good_analysis: ^4.0.0
