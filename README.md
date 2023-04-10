@@ -1,5 +1,3 @@
-This project was a take home assignment for a job interview.
-
 See the finished result [here: https://flutterwebappexample.web.app/](https://flutterwebappexample.web.app/)
 
 DISCLAIMER: This is merely a showcase of my flutter work. I am not taking credit for the design or the idea of this webpage.
