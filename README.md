@@ -1,6 +1,6 @@
 See the finished result [here: https://flutterwebappexample.web.app/](https://flutterwebappexample.web.app/)
 
-DISCLAIMER: This is merely a codeing challenge to showcase my flutter work. I am not taking credit for the design, the idea, or the branding of this webpage or coding challenge.
+DISCLAIMER ⚠️: This is merely a codeing challenge to showcase my flutter work. I am not taking credit for the design, the idea, or the branding of this webpage or coding challenge.
 
 ### Overview
 
